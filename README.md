@@ -1,8 +1,8 @@
 ## Holla 👋
 
-- I use "he" series pronouns.
+- I like to pair program, practice test driven development, and regularly refactor.
 - Go developer since 1.3 (late 2014).
-- Pair programmer, test driven development practitioner, and iterative refactorer.
+- I use "he" series pronouns.
 
 ### Work at [VMWare](https://www.vmware.com)   (2020-01 to present)
 
