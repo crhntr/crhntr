@@ -16,7 +16,7 @@ I'm currently working at VMWare on the [App Autoscaler](https://docs.pivotal.io/
 >
 > Cory Jett, Platform Architect, VMware
 
-### Work at [Pivotal](https://en.wikipedia.org/wiki/Pivotal_Software)   (2018-07 to 2019-12)
+### Worked at [Pivotal](https://en.wikipedia.org/wiki/Pivotal_Software)   (2018-07 to 2019-12)
 
 This was my first real job out of college. I found out about Pivotal from the [Go Time](https://changelog.com/gotime) podcast and applied at a recuriting event.
 
