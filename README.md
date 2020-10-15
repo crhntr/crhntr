@@ -1,8 +1,12 @@
 ## Holla 👋
 
-- I like to pair program, practice test driven development, and regularly refactor.
-- Go developer since 1.3 (late 2014).
 - I use "he" series pronouns.
+- I like to **pair program**, practice test driven development, and regularly refactor.
+- Let me know if you'd like to pair on interview prep or solving fun data structures/algorithms problems over Zoom.
+- Go developer since 1.3 (late 2014).
+  - I like playing with Go in the browser using WebAssembly.
+  - My most controversial opinion is I wish the Go generics syntax used parens instead of brackets. "Type parameters" are parameters and a syntax representing this idea would have been elegant.
+- Occationally, I volunteer for [Black Girls Code](https://www.blackgirlscode.com/). If you want to empower the next generation of technologists, check this organization out.
 
 ### Work at [VMWare](https://www.vmware.com)   (2020-01 to present)
 
