@@ -2,7 +2,9 @@
 
 - I use "he" series pronouns.
 - I like to **pair program**, practice test driven development, and regularly refactor.
-- Let me know if you'd like to pair on interview prep or solving fun data structures/algorithms problems over Zoom.
+- I enjoy coding with friends for fun
+  - Feel free to @ me for in your (for fun or positive social impact) repos.
+  - If you'd like to pair on interview prep or solving fun data structures/algorithms problems over Zoom, message me.
 - Go developer since 1.3 (late 2014).
   - At work, I support a few components, written in Go, for Tanzu Application Service.
   - I like playing with Go in the browser using WebAssembly.
