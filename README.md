@@ -4,7 +4,7 @@
 - I like to **pair program**, practice test driven development, and regularly refactor.
 - Let me know if you'd like to pair on interview prep or solving fun data structures/algorithms problems over Zoom.
 - Go developer since 1.3 (late 2014).
-  - At work, I support a few components written in Go for Tanzu Application Service.
+  - At work, I support a few components, written in Go, for Tanzu Application Service.
   - I like playing with Go in the browser using WebAssembly.
   - My most controversial opinion is I wish the Go generics syntax used parens instead of brackets. "Type parameters" are parameters and a syntax representing this idea would have been elegant.
 - Occationally, I volunteer for [Black Girls Code](https://www.blackgirlscode.com/). If you want to empower the next generation of technologists, check this organization out.
