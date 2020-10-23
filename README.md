@@ -32,3 +32,11 @@ I worked on two teams:
 1. The first was Infrastructure (7ish months). We built tooling to setup and configure BOSH directors on various infrastructure as service providers: Amazon Web Services (AWS), Google Cloud Platform, Microsoft Azure, and VMWare's VSphere. We heavily used Terraform and wrote a **bunch** of YAML and a fair bit of bash.
 
 1. The second was Pivotal Application Service Release (11 months). We tested and integrated components from 20+ teams and built tools to automate the release process.
+
+### Importing stuff from my repos
+
+My personal repos have a few different licences, if you'd like to import code from one them and licence does not work for your usage, reach out to me.
+
+Also for U.S. based folks, I did not mark up every one of my repos with export control. Please make sure if you import code from one of my repos, that you are doing appropriate due diligence on the legal stuffs around encryption.
+
+My personal repos are (mostly) for-fun projects... use at your own risk (see licence files).
