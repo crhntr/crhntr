@@ -1,6 +1,6 @@
 ## Holla 👋
 
-- I like to **pair program**, practice test driven development, and regularly refactor.
+- I like to [**pair program**](https://www.pivotaltracker.com/blog/how-pair-programming-and-mob-programming-help-quickly-onboard-new-software-engineers), practice test driven development, and regularly refactor.
 - I enjoy coding with friends for fun
   - Feel free to @ me for in your (for fun or positive social impact) repos.
   - If you'd like to pair on interview prep or solving fun data structures/algorithms problems over Zoom, message me.
