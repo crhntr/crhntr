@@ -33,7 +33,7 @@ I worked on two teams:
 
 1. The second was Pivotal Application Service Release (11 months). We tested and integrated components from 20+ teams and built tools to automate the release process.
 
-### Importing stuff from my repos
+### Importing stuff from my personal account repos
 
 My personal repos have a few different licences, if you'd like to import code from one them and licence does not work for your usage, reach out to me.
 
