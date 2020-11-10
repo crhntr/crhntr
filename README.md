@@ -1,4 +1,4 @@
-## Holla 👋
+## Holla 👋 ![Pronouns: He/Him](https://img.shields.io/badge/Pronouons-He/Him-lightgrey)
 
 - I like to [**pair program**](https://www.pivotaltracker.com/blog/how-pair-programming-and-mob-programming-help-quickly-onboard-new-software-engineers), practice test driven development, and regularly refactor.
 - I enjoy coding with friends for fun
@@ -10,7 +10,6 @@
   - My most controversial opinion is I wish the Go generics syntax used parens instead of brackets. "Type parameters" are parameters and a syntax representing this idea would have been elegant.
 - Occationally, I volunteer for [Black Girls Code](https://www.blackgirlscode.com/). If you want to empower the next generation of technologists, check this organization out.
 - We may have met at KubeCon 2019. I spent most of my time at the Pivotal booth or in the release engineering track (and at the tea/snack tables).
-- [Pronouns: he/him](https://www.mypronouns.org/he-him).
 
 ### Work at [VMWare](https://www.vmware.com)   (2020-01 to present)
 
