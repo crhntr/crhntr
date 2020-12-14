@@ -2,7 +2,7 @@
 [![Pronouns: He/Him](https://img.shields.io/badge/Pronouons-He/Him-lightgrey)](https://www.mypronouns.org/he-him)
 
 - I like to [**pair program**](https://www.pivotaltracker.com/blog/how-pair-programming-and-mob-programming-help-quickly-onboard-new-software-engineers), practice test driven development, and regularly refactor.
-- Go developer since 1.3 (late 2014).
+- Gopher (Go developer) since 2015.
   - At work, I support a few components, written in Go, for Tanzu Application Service.
   - I like playing with Go in the browser using WebAssembly.
   - One of my most controversial Go opinions is I wish the Go generics syntax used parens instead of brackets. "Type parameters" are parameters and a syntax representing this idea would have been elegant.
