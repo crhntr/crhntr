@@ -25,8 +25,8 @@ I worked on two teams:
 
 ### Importing stuff from my repos
 
-My personal repos have a few different licences, if you'd like to import code from one them and licence does not work for your usage, reach out to me.
+My personal repos have a few different licenses, if you'd like to import code from one them and license does not work for your usage, reach out to me.
 
 Also for U.S. based folks, I did not mark up every one of my repos with export control. Please make sure if you import code from one of my repos, that you are doing appropriate due diligence on the legal stuffs around encryption.
 
-My personal repos are (mostly) for-fun projects... use at your own risk (see licence files).
+My personal repos are (mostly) for-fun projects... use at your own risk (see license files).
