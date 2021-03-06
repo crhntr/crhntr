@@ -11,7 +11,9 @@
 
 ### Work at [VMWare](https://www.vmware.com)   (2020-01 to present)
 
-I'm currently working at VMWare on the [App Autoscaler](https://docs.pivotal.io/application-service/2-10/appsman-services/autoscaler/about-app-autoscaler.html) and [Scheduler](https://docs.pivotal.io/scheduler/1-2/) for [VMWare Tanzu Application Service](https://tanzu.vmware.com/application-service).
+Currently I am working on the Platform Provider Experience team. We curate and test the interaction between components in Tanzu Application Service for VMs. We backport and ship 20+ versions and variations of the artifacts roughly every few weeks.
+
+For most of 2020, I worked on the [App Autoscaler](https://docs.pivotal.io/application-service/2-10/appsman-services/autoscaler/about-app-autoscaler.html) and [Scheduler](https://docs.pivotal.io/scheduler/1-2/) for [VMWare Tanzu Application Service](https://tanzu.vmware.com/application-service).
 
 ### Worked at [Pivotal](https://en.wikipedia.org/wiki/Pivotal_Software)   (2018-07 to 2019-12)
 
