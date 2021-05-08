@@ -5,8 +5,7 @@
 - Gopher (Go developer) since 2015.
   - At work, I support a few components, written in Go, for Tanzu Application Service.
   - I like playing with Go in the browser using WebAssembly.
-  - One of my most controversial Go opinions is I wish the Go generics syntax used parens instead of brackets. "Type parameters" are parameters and a syntax representing this idea would have been elegant.
-- Occationally, I volunteer for [Black Girls Code](https://www.blackgirlscode.com/). If you want to empower the next generation of technologists, check this organization out.
+- I've volunteer for [Black Girls Code](https://www.blackgirlscode.com/). If you want to empower the next generation of technologists, check this organization out.
 - We may have met at KubeCon 2019. I spent most of my time at the Pivotal booth or in the release engineering track (and at the tea/snack tables).
 
 ### Work at [VMWare](https://www.vmware.com)   (2020-01 to present)
@@ -15,7 +14,7 @@ Currently I am working on the Platform Provider Experience team. We curate and t
 
 For most of 2020, I worked on the [App Autoscaler](https://docs.pivotal.io/application-service/2-10/appsman-services/autoscaler/about-app-autoscaler.html) and [Scheduler](https://docs.pivotal.io/scheduler/1-2/) for [VMWare Tanzu Application Service](https://tanzu.vmware.com/application-service).
 
-### Worked at [Pivotal](https://en.wikipedia.org/wiki/Pivotal_Software)   (2018-07 to 2019-12)
+### Worked at [Pivotal](https://en.wikipedia.org/wiki/Pivotal_Software) (2018-07 to 2019-12)
 
 This was my first real job out of college. I found out about Pivotal from the [Go Time](https://changelog.com/gotime) podcast and applied at a recuriting event.
 
