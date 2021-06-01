@@ -10,7 +10,7 @@
 
 ### Work at [VMWare](https://www.vmware.com)   (2020-01 to present)
 
-Currently I am working on the Platform Provider Experience team. We curate and test the interaction between components in Tanzu Application Service for VMs. We backport and ship 6+ version branches and 3 TAS configuration variations of the artifacts roughly every few weeks.
+Currently I am working on the Platform Provider Experience team. We curate, configure, and test components for [Tanzu Application Service for VMs](https://tanzu.vmware.com/application-service). We backport and ship 6+ version branches and 3 TAS configuration variations roughly every few weeks.
 
 For most of 2020, I worked on the [App Autoscaler](https://docs.pivotal.io/application-service/2-10/appsman-services/autoscaler/about-app-autoscaler.html) and [Scheduler](https://docs.pivotal.io/scheduler/1-2/) for [VMWare Tanzu Application Service](https://tanzu.vmware.com/application-service).
 
