@@ -15,7 +15,7 @@
 
 I improve the Platform Provider Experience for organizations using [Tanzu Application Service for VMs](https://tanzu.vmware.com/application-service).
 
-For most of 2020, I worked on the [App Autoscaler](https://docs.pivotal.io/application-service/2-10/appsman-services/autoscaler/about-app-autoscaler.html) and [Scheduler](https://docs.pivotal.io/scheduler/1-2/).
+For most of 2020, I worked on [App Autoscaler](https://docs.pivotal.io/application-service/2-10/appsman-services/autoscaler/about-app-autoscaler.html) and [Scheduler](https://docs.pivotal.io/scheduler/1-2/).
 
 ### Importing stuff from my repos
 
