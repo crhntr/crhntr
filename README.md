@@ -11,21 +11,11 @@
 ### Current side-projects
 - [Curtis Capital](https://curtis.capital): portfolio analysis and other financial tooling developed in collaboration with [Blake Curitis](https://github.com/curtisbw).
 
-### I currently work for [VMWare](https://www.vmware.com)   (2020-01 to present)
+### I work for [VMWare](https://www.vmware.com) (previously Pivotal Inc. in the R&D org)   (2018 to present)
 
-I am working on the Platform Provider Experience team. We curate, configure, and test components for [Tanzu Application Service for VMs](https://tanzu.vmware.com/application-service). We backport and ship 6+ version branches and 3 TAS configuration variations roughly every few weeks.
+I improve the Platform Provider Experience for organizations using [Tanzu Application Service for VMs](https://tanzu.vmware.com/application-service).
 
-For most of 2020, I worked on the [App Autoscaler](https://docs.pivotal.io/application-service/2-10/appsman-services/autoscaler/about-app-autoscaler.html) and [Scheduler](https://docs.pivotal.io/scheduler/1-2/) for [VMWare Tanzu Application Service](https://tanzu.vmware.com/application-service).
-
-### I worked at [Pivotal](https://en.wikipedia.org/wiki/Pivotal_Software) (2018-07 to 2019-12)
-
-This was my first real job out of college. I found out about Pivotal from the [Go Time](https://changelog.com/gotime) podcast and applied at a recuriting event.
-
-I worked on two teams:
-
-1. The first was Infrastructure (7ish months). We built tooling to setup and configure BOSH directors on various infrastructure as service providers: Amazon Web Services (AWS), Google Cloud Platform, Microsoft Azure, and VMWare's VSphere. We heavily used Terraform and wrote a **bunch** of YAML and a fair bit of bash.
-
-1. The second was Pivotal Application Service Release (11 months). We tested and integrated components from 20+ teams and built tools to automate the release process.
+For most of 2020, I worked on the [App Autoscaler](https://docs.pivotal.io/application-service/2-10/appsman-services/autoscaler/about-app-autoscaler.html) and [Scheduler](https://docs.pivotal.io/scheduler/1-2/).
 
 ### Importing stuff from my repos
 
