@@ -11,7 +11,7 @@
 ### Current side-projects
 - [Curtis Capital](https://curtis.capital): portfolio analysis and other financial tooling developed in collaboration with [Blake Curitis](https://github.com/curtisbw).
 
-### I work for [VMWare](https://www.vmware.com) (previously Pivotal Inc. in the R&D org)   (2018 to present)
+### I work for [VMWare](https://www.vmware.com) (previously Pivotal Inc.) - 2018 to present
 
 I improve the Platform Provider Experience for organizations using [Tanzu Application Service for VMs](https://tanzu.vmware.com/application-service).
 
