@@ -1,12 +1,10 @@
 ## Holla, Hello, Привіт, Bok 👋 
 [![Pronouns: He/Him](https://img.shields.io/badge/Pronouons-He/Him-lightgrey)](https://www.mypronouns.org/he-him)
 
-- I like to [**pair program**](https://www.pivotaltracker.com/blog/how-pair-programming-and-mob-programming-help-quickly-onboard-new-software-engineers), practice test driven development, and refactor.
-- Gopher (Go developer) since 2015.
-  - At work, I support a few components, written in Go, for Tanzu Application Service.
-  - I like playing with Go in the browser using WebAssembly.
-- I've volunteer for [Black Girls Code](https://www.blackgirlscode.com/). If you want to empower the next generation of technologists, check this organization out.
-- We may have met at KubeCon 2019. I spent most of my time at the Pivotal booth or in the release engineering track (and at the tea/snack tables).
+- I like to [🍐 **pair program**](https://www.pivotaltracker.com/blog/how-pair-programming-and-mob-programming-help-quickly-onboard-new-software-engineers), practice test driven development, and refactor.
+- Gopher ([Go](https://golang.org/) developer) since 2015.
+- I've volunteered for [Black Girls Code](https://www.blackgirlscode.com/). If you want to empower the next generation of technologists, check this organization out.
+- We may have met at KubeCon 2019. I spent most of my time at the Pivotal booth or at the snack tables.
 
 ### Current side-projects
 - [Curtis Capital](https://curtis.capital): portfolio analysis and other financial tooling developed in collaboration with [Blake Curitis](https://github.com/curtisbw).
@@ -14,9 +12,8 @@
 
 ### I work for [VMWare](https://www.vmware.com) (previously Pivotal Inc.) - 2018 to present
 
-I improve the Platform Provider Experience for organizations using [Tanzu Application Service for VMs](https://tanzu.vmware.com/application-service).
-
-For most of 2020, I worked on [App Autoscaler](https://docs.pivotal.io/application-service/2-10/appsman-services/autoscaler/about-app-autoscaler.html) and [Scheduler](https://docs.pivotal.io/scheduler/1-2/).
+- I improve the Platform Provider (Operator) Experience for organizations using [Tanzu Application Service for VMs](https://tanzu.vmware.com/application-service).
+- I've also worked on [App Autoscaler](https://docs.pivotal.io/application-service/2-10/appsman-services/autoscaler/about-app-autoscaler.html) and [Scheduler](https://docs.pivotal.io/scheduler/1-2/).
 
 ### Importing stuff from my repos
 
