@@ -9,6 +9,7 @@
 ### Current side-projects
 - [Curtis Capital](https://curtis.capital): portfolio analysis and other financial tooling developed in collaboration with [Blake Curitis](https://github.com/curtisbw).
 - [Natalie Hunter's Art Website](https://nataliehunterart.com/). I built my sister a little website for her art.
+- [Playground (Go+WASM)] A playground for Go where the compiled code runs in your browser in an iFrame
 
 ### I work for [VMWare](https://www.vmware.com) (previously Pivotal Inc.) - 2018 to present
 
