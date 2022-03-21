@@ -1,4 +1,4 @@
-## Привіт 👋 
+<h1><span title="Привіт means 'Hi there' in ukrainian.">Привіт</span> 👋 <h1>
 [![Pronouns: He/Him](https://img.shields.io/badge/Pronouons-He/Him-lightgrey)](https://www.mypronouns.org/he-him)
 
 - I like to [🍐 **pair program**](https://www.pivotaltracker.com/blog/how-pair-programming-and-mob-programming-help-quickly-onboard-new-software-engineers), practice test driven development, and refactor.
