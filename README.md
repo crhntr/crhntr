@@ -8,7 +8,7 @@
 - We may have met at KubeCon 2019 or 2021.
 
 ### Current side-projects
-- [Curtis Capital](https://curtis.capital): portfolio analysis and other financial tooling developed in collaboration with [Blake Curitis](https://github.com/curtisbw).
+- [Portfolio Tree](https://portfoliotree.com): portfolio analysis and other financial tooling developed in collaboration with [Blake Curitis](https://github.com/curtisbw).
 - [Natalie Hunter's Art Website](https://nataliehunterart.com/): I built my sister a little website for her art.
 - [Playground (Go+WASM)](http://playground.cazador.codes): A playground for Go where the compiled code runs in your browser in an iFrame
 
