@@ -1,4 +1,4 @@
-<h1><span title="Привіт means 'Hi there' in ukrainian.">Привіт</span> 👋 </h1>
+<h1><span title="Привіт means 'Hi there' in Ukrainian.">Привіт</span> 👋 </h1>
 
 [![Pronouns: He/Him](https://img.shields.io/badge/Pronouons-He/Him-lightgrey)](https://www.mypronouns.org/he-him)
 
