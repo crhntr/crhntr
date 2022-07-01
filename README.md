@@ -12,7 +12,7 @@
 - [Natalie Hunter's Art Website](https://nataliehunterart.com/): I built my sister a little website for her art.
 - [Playground (Go+WASM)](http://playground.cazador.codes): A playground for Go where the compiled code runs in your browser in an iFrame
 
-### I work for [VMWare](https://www.vmware.com) (previously Pivotal Inc.) - 2018 to present
+### I work for [VMWare](https://www.vmware.com) on Tanzu Application Service (previously Pivotal Inc. R&D)
 
 - I improve the Platform Provider (Operator) Experience for organizations using [Tanzu Application Service for VMs](https://tanzu.vmware.com/application-service).
 - I've also worked on [App Autoscaler](https://docs.pivotal.io/application-service/2-10/appsman-services/autoscaler/about-app-autoscaler.html) and [Scheduler](https://docs.pivotal.io/scheduler/1-2/).
