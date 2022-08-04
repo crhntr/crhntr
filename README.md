@@ -4,8 +4,7 @@
 
 - I like to [🍐 **pair program**](https://www.pivotaltracker.com/blog/how-pair-programming-and-mob-programming-help-quickly-onboard-new-software-engineers), practice test driven development, and refactor.
 - I've been a gopher ([Go](https://golang.org/) developer) since 2015.
-- I've volunteered for [Black Girls Code](https://www.blackgirlscode.com/). If you want to empower the next generation of technologists, check this organization out.
-- We may have met at KubeCon 2019 or 2021.
+- I have been using [BOSH](https://bosh.io/docs/) and contributing to [Cloud Foundry](https://www.cloudfoundry.org/) since 2018
 
 ### Current side-projects
 - [Portfolio Tree](https://portfoliotree.com): portfolio analysis and other financial tooling.
