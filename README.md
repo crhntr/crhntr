@@ -3,7 +3,7 @@
 [![Pronouns: He/Him](https://img.shields.io/badge/Pronouons-He/Him-lightgrey)](https://www.mypronouns.org/he-him)
 
 - I like to [🍐 **pair program**](https://www.pivotaltracker.com/blog/how-pair-programming-and-mob-programming-help-quickly-onboard-new-software-engineers), practice test driven development, and refactor.
-- I've been a gopher ([Go](https://golang.org/) developer) since 2015.
+- I've been a Go developer (Gopher) ([Go](https://golang.org/) developer) since 2015.
 - I have been using [BOSH](https://bosh.io/docs/) and contributing to [Cloud Foundry](https://www.cloudfoundry.org/) since 2018
 
 ### Current side-projects
