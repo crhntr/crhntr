@@ -7,7 +7,7 @@
 - I have been using [BOSH](https://bosh.io/docs/) and contributing to [Cloud Foundry](https://www.cloudfoundry.org/) since 2018
 
 ### Current side-projects
-- [Portfolio Tree](https://portfoliotree.com): portfolio analysis and other financial tooling.
+- [PortfolioTree](https://portfoliotree.com): portfolio analysis and other financial tooling.
 - [Natalie Hunter's Art Website](https://nataliehunterart.com/): I built my sister a little website for her art.
 - [Playground (Go+WASM)](http://playground.cazador.codes): A playground for Go where the compiled code runs in your browser in an iFrame
 
