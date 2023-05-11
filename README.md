@@ -14,10 +14,10 @@
 ### I work for [VMWare](https://www.vmware.com) on Tanzu Application Service (previously Pivotal Inc. R&D)
 
 - I currently support the Platform Provider (Operator) Experience for organizations using [Tanzu Application Service for VMs](https://tanzu.vmware.com/application-service).
-- I've also worked on
+- I've also
   - anchored (tech lead light) a team building proprietary TAS addons [App Autoscaler](https://docs.pivotal.io/application-service/2-10/appsman-services/autoscaler/about-app-autoscaler.html) and [Scheduler](https://docs.pivotal.io/scheduler/1-2/)
-  - Terraform templates for highly available TAS across major hyperscalers ([GCP](https://github.com/vmware-archive/terraforming-gcp), [AWS](https://github.com/vmware-archive/terraforming-aws), [Azure](https://github.com/vmware-archive/terraforming-azure), and [VSphere](https://github.com/vmware-archive/terraforming-vsphere/graphs/contributors))
-  - an Open Source [Cloud Foundry BOSH Director Bootstrapping tool](https://github.com/cloudfoundry/bosh-bootloader).
+  - maintianed Terraform templates for highly available TAS across major hyperscalers ([GCP](https://github.com/vmware-archive/terraforming-gcp), [AWS](https://github.com/vmware-archive/terraforming-aws), [Azure](https://github.com/vmware-archive/terraforming-azure), and [VSphere](https://github.com/vmware-archive/terraforming-vsphere/graphs/contributors))
+  - maintained an Open Source [Cloud Foundry BOSH Director Bootstrapping tool](https://github.com/cloudfoundry/bosh-bootloader).
 
 ### Importing stuff from my repos
 
