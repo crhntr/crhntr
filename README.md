@@ -26,3 +26,26 @@ My personal repos have a few different licenses, if you'd like to import code fr
 Also for U.S. based folks, I did not mark up every one of my repos with export control. Please make sure if you import code from one of my repos, that you are doing appropriate due diligence on the legal stuffs around encryption.
 
 My personal repos are (mostly) for-fun projects... use at your own risk (see license files).
+
+### Go Playgrounds
+- In response to a question like "how do I get from get from an abitrary *T to T" in a VMware internal Slack channel, I wrote: https://go.dev/play/p/IlAtnMECjTU
+  ```go
+  package main
+
+  import (
+	  "fmt"
+	  "reflect"
+  )
+
+  func main() {
+	  var x int
+	  y := f(&x)
+	  fmt.Printf("%[1]T %[1]d", y)
+  }
+
+  func f[T any](ptr *T) T {
+  	ptrType := reflect.TypeOf(ptr)
+  	zeroValue := reflect.Zero(ptrType.Elem())
+  	return zeroValue.Interface().(T)
+  }
+  ```
