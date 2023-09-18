@@ -1,4 +1,4 @@
-<h1>[¡Holla, amig(o|a)s!](https://regex101.com/r/WcegOu/1)</h1>
+<h1><a href="https://regex101.com/r/WcegOu/1">¡Holla, amig(o|a)s!</a></h1>
 
 [![Pronouns: He/Him](https://img.shields.io/badge/Pronouons-He/Him-lightgrey)](https://www.mypronouns.org/he-him)
 
