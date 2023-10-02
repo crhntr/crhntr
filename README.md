@@ -9,7 +9,7 @@
 ### Current side-projects
 - [PortfolioTree](https://portfoliotree.com): portfolio analysis and other financial tooling.
 - [Natalie Hunter's Art Website](https://nataliehunterart.com/): I built my sister a little website for her art.
-- [Playground (Go+WASM)](http://playground.cazador.codes): A playground for Go where the compiled code runs in your browser in an iFrame
+- [Playground (Go+WASM)](https://github.com/crhntr/playground): A playground for Go where the compiled code runs in your browser in an iFrame
 
 #### Utilities
 - [(Masterminds) semver checker](https://crhntr.com/semver) let's you play with semanitic version constraints kind of like Regex101. Intend to add other semantic version libraries in the future.
