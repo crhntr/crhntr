@@ -1,4 +1,4 @@
-# Thanks for viewing my profile!
+# Hello, thanks for viewing my profile!
 
 [![Pronouns: He/Him](https://img.shields.io/badge/Pronouons-He/Him-lightgrey)](https://www.mypronouns.org/he-him) <span title="Mexican American from Los Angeles, CA">🇲🇽🇺🇸<span>
 
