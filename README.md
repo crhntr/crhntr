@@ -5,7 +5,7 @@
 If you like/use any of my repositories, please give them a star. Thanks :)
 
 - I've been a Gopher ([Go](https://golang.org/) developer) since 2015.
-- I like to [🍐 **pair program**](https://www.pivotaltracker.com/blog/how-pair-programming-and-mob-programming-help-quickly-onboard-new-software-engineers), practice test driven development, and refactor.
+- I like to [🍐 **pair program**](https://www.pivotaltracker.com/blog/how-pair-programming-and-mob-programming-help-quickly-onboard-new-software-engineers) and practice test driven development.
 - I have been using [BOSH](https://bosh.io/docs/) and contributing to [Cloud Foundry](https://www.cloudfoundry.org/) since 2018
 
 ### Current side-projects
