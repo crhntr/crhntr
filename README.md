@@ -16,7 +16,12 @@ If you like/use any of my repositories, please give them a star. Thanks :)
 #### Utilities
 - [(Masterminds) semver checker](https://crhntr.com/semver) let's you play with semanitic version constraints kind of like Regex101. Intend to add other semantic version libraries in the future.
 
-### I work for [VMWare](https://www.vmware.com) on Tanzu Application Service (previously Pivotal Inc. R&D)
+### I work for [Broadcom](https://www.broacom.com) on Tanzu Application Service
+
+- _previously VMware Inc._
+- _previously Pivotal Inc. R&D_
+
+#### Projects
 
 - I currently support the Platform Provider (Operator) Experience for organizations using [Tanzu Application Service for VMs](https://tanzu.vmware.com/application-service).
 - I've also
