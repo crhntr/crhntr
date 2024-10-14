@@ -16,14 +16,6 @@ If you like/use any of my repositories, please give them a star. Thanks :)
 #### Utilities
 - [(Masterminds) semver checker](https://crhntr.com/semver) let's you play with semanitic version constraints kind of like Regex101. Intend to add other semantic version libraries in the future.
 
-#### Projects
-
-- I currently support the Platform Provider (Operator) Experience for organizations using [Tanzu Application Service for VMs](https://tanzu.vmware.com/application-service).
-- I've also
-  - anchored (tech lead light) a team building proprietary TAS addons [App Autoscaler](https://docs.pivotal.io/application-service/2-10/appsman-services/autoscaler/about-app-autoscaler.html) and [Scheduler](https://docs.pivotal.io/scheduler/1-2/)
-  - maintianed Terraform templates for highly available TAS across major hyperscalers ([GCP](https://github.com/vmware-archive/terraforming-gcp), [AWS](https://github.com/vmware-archive/terraforming-aws), [Azure](https://github.com/vmware-archive/terraforming-azure), and [VSphere](https://github.com/vmware-archive/terraforming-vsphere/graphs/contributors))
-  - maintained an Open Source [Cloud Foundry BOSH Director Bootstrapping tool](https://github.com/cloudfoundry/bosh-bootloader).
-
 ### Importing stuff from my repos
 
 My personal repos have a few different licenses, if you'd like to import code from one them and license does not work for your usage, reach out to me.
