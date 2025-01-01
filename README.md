@@ -2,6 +2,8 @@
 
 [![Pronouns: He/Him](https://img.shields.io/badge/Pronouons-He/Him-lightgrey)](https://www.mypronouns.org/he-him) <span title="Mexican American from Los Angeles, CA">🇲🇽🇺🇸<span>
 
+My personal repos are (mostly) for-fun projects... use at your own risk (please see license files).
+
 If you like/use any of my repositories, please give them a star. Thanks :)
 
 - I've been a Gopher ([Go](https://golang.org/) developer) since 2015.
@@ -15,9 +17,3 @@ If you like/use any of my repositories, please give them a star. Thanks :)
 
 #### Utilities
 - [(Masterminds) semver checker](https://crhntr.com/semver) let's you play with semanitic version constraints kind of like Regex101. Intend to add other semantic version libraries in the future.
-
-### Importing stuff from my repos
-
-My personal repos have a few different licenses, if you'd like to import code from one them and license does not work for your usage, reach out to me.
-
-My personal repos are (mostly) for-fun projects... use at your own risk (see license files).
