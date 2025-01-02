@@ -1,4 +1,4 @@
-# Hello, thanks for reading my developer profile!
+# Hello, thanks for clicking on my profile and reading this!
 
 [![Pronouns: He/Him](https://img.shields.io/badge/Pronouons-He/Him-lightgrey)](https://www.mypronouns.org/he-him) <span title="Mexican American from Los Angeles, CA">🇲🇽🇺🇸<span>
 
