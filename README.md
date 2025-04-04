@@ -1,15 +1,15 @@
 # Hello! Thanks for stopping by my profile
 
-I’ve been busy building [PortfolioTree](https://portfoliotree.com), a service that models investment portfolios and excels at analyzing composite portfolio risks (like 401(k), IRA, and HSA). 
-
 [![Pronouns: He/Him](https://img.shields.io/badge/Pronouons-He%2FHim-lightgrey)](https://www.mypronouns.org/he-him) <span title="Mexican American from Los Angeles, CA">🇲🇽🇺🇸</span>
 
-Most of my personal repositories are for-fun projects, so please use them at your own risk (check out their license files). If you find something useful, I'd really appreciate a star!
+I’ve been busy building [PortfolioTree](https://portfoliotree.com), a service that models investment portfolios and excels at analyzing composite portfolio risks (like 401(k), IRA, and HSA). 
 
 I’m also available for consulting, especially if you need a developer who:
 - Has been a Gopher ([Go](https://golang.org/)) since 2015
 - Enjoys [🍐 **pair programming**](https://www.pivotaltracker.com/blog/how-pair-programming-and-mob-programming-help-quickly-onboard-new-software-engineers) and practicing test-driven development
 - Is experienced with [BOSH](https://bosh.io/docs/) and has contributed to [Cloud Foundry](https://www.cloudfoundry.org/) since 2018
+
+Most of my personal repositories are for-fun projects, so please use them at your own risk (check out their license files). If you find something useful, I'd really appreciate a star!
 
 Feel free to reach out if you’d like to collaborate on a project, talk about software architecture, or explore other consulting opportunities.
 
