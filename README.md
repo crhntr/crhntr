@@ -8,7 +8,7 @@ On the side, I’ve been chipping away at crafting [PortfolioTree](https://portf
 
 Contact me if you have an interesting opportunity for someone who:
 - Has been a Gopher ([Go Programming Language](https://go.dev/) Software Developer) since 2015
-- Enjoys [🍐 **pair programming**](https://www.pivotaltracker.com/blog/how-pair-programming-and-mob-programming-help-quickly-onboard-new-software-engineers) and practicing test-driven development
+- Enjoys [🍐 **pair programming**]([https://www.pivotaltracker.com/blog/how-pair-programming-and-mob-programming-help-quickly-onboard-new-software-engineers](https://web.archive.org/web/20250218001905/https://www.pivotaltracker.com/blog/how-pair-programming-and-mob-programming-help-quickly-onboard-new-software-engineers)) and practicing test-driven development
 - Is experienced with [BOSH](https://bosh.io/docs/) and has contributed to [Cloud Foundry](https://www.cloudfoundry.org/) since 2018
 
 Most of my personal repositories are for-fun projects, so please use them at your own risk (check out their license files). If you find something useful, I'd really appreciate a star!
