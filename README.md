@@ -2,7 +2,7 @@
 
 [![Pronouns: He/Him](https://img.shields.io/badge/Pronouons-He%2FHim-lightgrey)](https://www.mypronouns.org/he-him) <span title="Mexican American from Los Angeles, CA">🇲🇽🇺🇸</span>
 
-After half a decade in cloud infrastucture (Pivotal, VMware, Broadcom), I have worked in the aerospace industry for the last year (Hadrian, Long Wall).
+I worked in cloud infrastucture (Pivotal, VMware, Broadcom) for nearly 6 years now for over a year now I've been building software for the aerospace industry (Hadrian, Long Wall).
 
 On the side, I’ve been chipping away at crafting [PortfolioTree](https://portfoliotree.com), a service that models investment portfolios and excels at analyzing composite portfolio risks (like 401(k), IRA, and HSA). 
 
